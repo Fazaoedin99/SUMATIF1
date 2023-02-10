@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SUMATIF1 GENAP MISBAHUDIN_FAZA</string>
+    <string name="siswa">SISWA</string>
+    <string name="todo">TODO</string>
+    <string name="Todo">TODO</string>
+    <string name="buku">BUKU</string>
+    <string name="TodO">TODO</string>
+    <string name="guru">GURU</string>
+    <string name="Siswa">Siswa</string>
+    <string name="menu_home">Menu Home</string>
+    <string name="Guru">Guru</string>
+    <string name="visi_misi_smk_sa">Visi Misi SMK SA</string>
+    <string name="TODO">TODO</string>
+    <string name="Buku">Buku</string>
+    <string name="membina_dan_menyiapkan_guru_karyawan_yang_profesional_dan_berjiwa_pendidik">Membina dan menyiapkan guru/ karyawan yang profesional dan berjiwa pendidik.</string>
+    <string name="membekali_peserta_didik_dengan_ilmu_pengetahuan_teknologi_dan_seni_agar_mampu_mengembangkan_diri_di_kemudian_hari_baik_secara_mandiri_maupun_melalui_jenjang_pendidikan_yang_lebih_tinggi">Membekali peserta didik dengan Ilmu Pengetahuan, teknologi, dan seni agar mampu mengembangkan diri di kemudian hari baik secara mandiri maupun melalui jenjang pendidikan yang lebih tinggi.</string>
+    <string name="menyiapkan_peserta_didik_agar_mampu_memilih_karier_ulet_dan_gigih_dalam_berkompetisi_beradaptasi_di_lingkungan_kerja_dan_mengembangkan_sikap_professional_dalam_bidang_keahliannya_beraqidah_ahlussunnah_wal_jamaah_dan_berakhlaqul_karimah">Menyiapkan peserta didik agar mampu memilih karier, ulet dan gigih dalam berkompetisi, beradaptasi di lingkungan kerja, dan mengembangkan sikap professional dalam bidang keahliannya, beraqidah ahlussunnah wal jamaah, dan berakhlaqul karimah.</string>
+    <string name="menyiapkan_peserta_didik_agar_menjadi_manusia_produktif_mampu_bekerja_mandiri_mengisi_lowongan_pekerjaan_yang_ada_di_dunia_usaha_dan_dunia_industri_sebagai_tenaga_kerja_tingkat_menengah_sesuai_dengan_kompetensi_dalam_program_keahlian_masing_masing">Menyiapkan peserta didik agar menjadi manusia produktif, mampu bekerja mandiri, mengisi lowongan pekerjaan yang ada di dunia usaha dan dunia industri sebagai tenaga kerja tingkat menengah sesuai dengan kompetensi dalam program keahlian masing-masing.</string>
+    <string name="_2_misi_sekolah_madrasah">2.Misi Sekolah/Madrasah :</string>
+    <string name="tersedianya_generasi_muda_yang_profesional_mandiri_dan_berakhlaqul_karimah_serta_mendapat_ridha_allah_swt_melalui_perpaduan_iman_taqwa_dan_iptek">Tersedianya generasi muda yang profesional, mandiri dan berakhlaqul karimah, serta mendapat ridha Allah SWT, melalui perpaduan Iman Taqwa dan IPTEK.</string>
+    <string name="_1_visi_sekolah_madrasah">1.Visi Sekolah/Madrasah :</string>
+    <string name="visi_dan_misi">VISI DAN MISI</string>
+    <string name="Nama" />
+    <string name="textview">TextView</string>
+</resources>
